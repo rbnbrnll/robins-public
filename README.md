@@ -8,5 +8,5 @@ The pdf is a report on a data wrangling project involving Montreal data from Ope
 ## prosperAnalysisAllCode.pdf, prosperAnalysisAllcode.rmd, and prosperAnalysisAllcode.html
 This uses R to explore the Prosper data set and create graphs to help indicate which factors besides Prosper Rating may indicate whether or not a person will default on a loan or miss payments.  For better rendering download prosperAnalysisallcode.html
 
-## titanic.html
+## titanic.pdf
 This is my report on the Titanic dataset from Kaggle created with iPython notebook.  It includes python code and graphs to identify how various factors may have related to the survival of passengers on the Titanic. 
