@@ -1,5 +1,7 @@
 # robins-public
 Projects
+## ProjectMachineLearning
+Contains code used to investigate data using machine learning skills and an algorithm to identify Enron Employees who may have committed fraud based on Enron financial and email data.
 ## montreal.pdf 
 This is a report on a data wrangling project involving Montreal data from OpenStreetMap.  It includes SQL code snippets and discusses how the data was cleaned using python.
 
